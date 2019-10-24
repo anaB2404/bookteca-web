@@ -1,6 +1,6 @@
 .custom-card {
-  width: 344px;
-  max-width: 344px;
+  width: 355px;
+  max-width: 355px;
   max-height: 382px;
   background: #fff;
   border-radius: 4px;
@@ -25,8 +25,8 @@
 
 .custom-card-header-icon {
   display: block;
-  width: 48px;
-  height: 48px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background-color: rgba(0,0,0,0.2);
   margin-left: 16px;
@@ -53,4 +53,9 @@
   max-height: 194px;
   min-height: 194px;
   background-size: 100%;
+}
+
+.custom-card-content{
+  height: 64px;
+
 }
